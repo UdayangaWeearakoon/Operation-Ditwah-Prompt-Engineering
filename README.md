@@ -40,14 +40,10 @@ To run the prompt experiments, execute:
 python run_experiments.py
 ```
 
-## Contributing
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries, please reach out to the project maintainer:
 **Udayanga Weearakoon**  
-Email: udayanga@example.com  
-Twitter: [@UdayangaW](https://twitter.com/UdayangaW)
+Email: udayangaweerakoon212@gmail.com
