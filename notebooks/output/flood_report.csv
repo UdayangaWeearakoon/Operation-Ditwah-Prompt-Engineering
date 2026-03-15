@@ -1,0 +1,31 @@
+district,flood_level_meters,victim_count,main_need,status
+Colombo,9.5,0,Unknown,Critical
+Gampaha,,5,boat,Critical
+Kandy,,0,None,Stable
+Kalutara,,12,Rescue team,Critical
+Gampaha,2.0,500,dry rations,Critical
+Colombo,,0,None,Stable
+Matara,,0,none,Stable
+Colombo,1.5,1,Rescue,Critical
+Galle,,0,None,Stable
+Gampaha,,0,mosquito control,Warning
+Colombo,,40,evacuation,Critical
+Colombo,,0,Water bottles and biscuits,Warning
+Kandy,,0,None,Warning
+Gampaha,,200,milk powder,Stable
+Nuwara Eliya,,0,None,Warning
+Gampaha,,0,Helicopter transport,Critical
+Ratnapura,5.0,0,,Warning
+Colombo,,0,None,Stable
+Kalutara,,0,bridge repair,Critical
+Colombo,,0,Rescue,Warning
+Gampaha,,50,generator fuel,Critical
+Kandy,3.0,0,Flood control,Critical
+Gampaha,,0,Rescue,Critical
+Kalutara,,8,Rescue,Critical
+Matara,,0,Safety,Warning
+Colombo,,5000,everything,Critical
+Galle,,0,,Stable
+Gampaha,,2,Medical assistance,Critical
+Colombo,,15000,Unknown,Warning
+Kegalle,,10,Rescue,Critical
